@@ -36,8 +36,13 @@ I²C, UART e PWM Tutorials – Pico SDK examples
 🤝 Contribuidores
 
 -Alex dos Santos Bomfim 
+
+
 -Alexandre Fernandes das Neves Junior 
+
+
 -Erick da Silva Sousa
+
 
 Este projeto demonstra a integração de múltiplos periféricos em sistemas embarcados e abre caminho para aplicações de som ambiente distribuído e controle remoto.
 
