@@ -1,6 +1,6 @@
-# 🎶 Projeto Final: Sistema Embarcado de Melodias Sincronizadas
+# 🎶 Projeto Final: Sistema Sonoro Sincronizado no RP2040 Utilizando a BitDogLab
 
-Este repositório contém o código-fonte e documentação do projeto final de Sistemas Embarcados, em que duas placas **BitDogLab (RP2040/Pico W)** reproduzem melodias em perfeita sincronia, com controles dinâmicos de velocidade, volume e visualização de níveis sonoros.
+Este repositório contém o código-fonte e documentação do projeto final de da disciplina de Microcontroladores e Microprocessadores, em que duas placas **BitDogLab (RP2040/Pico W)** reproduzem melodias em sincronia, com controles dinâmicos de velocidade, volume e visualização de níveis sonoros.
 
 ---
 
